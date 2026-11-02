@@ -1,3 +1,3 @@
 Kellyn Bailey
 Music Artist Site
-Netlify URL: 
+Netlify URL: https://musicartistkellynbailey.netlify.app/
